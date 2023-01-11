@@ -1,0 +1,13 @@
+name: ColoredItem
+version: '${project.version}'
+main: win.oreo.coloreditem.Main
+api-version: 1.19
+authors: [ superoreo ]
+description: Colored Item
+website: https://github.com/superoreoooooo
+depend:
+  - HEXChatColor
+commands:
+  givec:
+    aliases:
+      - givecoloreditem
